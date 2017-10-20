@@ -70,6 +70,6 @@
     "d3-timer": "1.0.7",
     "d3-transition": "1.1.0",
     "d3-voronoi": "1.1.2",
-    "d3-zoom": "1.6.0"
+    "d3-zoom": "git://github.com/d3/d3-zoom.git#custom-constrain"
   }
 }
